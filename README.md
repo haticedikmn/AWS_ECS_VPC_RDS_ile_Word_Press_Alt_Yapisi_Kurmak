@@ -23,7 +23,7 @@ AWS tarafından sağlanan yönetilen bir SQL veritabanı hizmetidir. Amazon RDS,
 
 1- ECS – RDS kullanarak bir wordpress altyapısı kuracağız. 
 
-2- Mysql rds te çalışacak, application sunucusu ECS (farget) te çalışacak.
+2- MySQL RDS'te çalışacak, application sunucusu ECS(farget) te çalışacak.
 
 3- VPC üzerinden birbirleri ile haberleşecekler
 
